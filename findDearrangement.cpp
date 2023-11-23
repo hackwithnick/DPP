@@ -1,8 +1,8 @@
 /*
 	1. Permute array A to B, so that A[i] != B[i] for all ∈ [0,n].
 	A[11] : {1,5,3,1,2,1,3,3,2,3,1}
-	B[11] :
-
+	B[11] : {3 3 1 3 1 3 1 2 1 2 5}
+ 	
 	2. If it is not possible then print -1
 */
 #include<bits/stdc++.h>
