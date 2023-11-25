@@ -2,7 +2,7 @@
 Given an array of n positive integers, your task is to count the number of subarrays having sum x.
 Input
 The first input line has two integers n and x: the size of the array and the target sum x.
-The next line has n integers a_1,a_2,\dots,a_n: the contents of the array.
+The next line has n integers a1,a2,....... the contents of the array.
 Output
 Print one integer: the required number of subarrays.
 
